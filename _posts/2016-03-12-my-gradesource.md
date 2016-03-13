@@ -18,10 +18,10 @@ table to find your status of CSE11 course.
 After downloading "My GradeSource", click it to open.
 ![](/src/2.png)
 
-And enter your secret number in the textfield...
+Enter your secret number in the textfield...
 ![](/src/3.png)
 
-There you go! The result just came out!
+And... Here is your result!
 ![](/src/4.png)
 
 If you want to see the whole table, you can click the "Show All.." button which
