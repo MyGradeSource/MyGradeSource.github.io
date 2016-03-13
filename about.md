@@ -11,11 +11,13 @@ permalink: /about/
 * Ming-Wei Liu, master student from mechanical and aerospace engineering in UCSD.
 
 "My GradeSource" is our final project for CSE11, which is instructed by Prof. Adam Jundt in 15-16 Winter quarter.
-This application is programmed by Java, including [JavaFX](https://docs.oracle.com/javafx/2/api/) and [jsoup](http://jsoup.org/) library.
+This application is programmed by Java, including [JavaFX](https://docs.oracle.com/javafx/2/api/) and [jsoup](http://jsoup.org/) library mainly.
 
-The reason why we made this app is because it's really tedious to check our own grade on the website
-and there is too much unnecessary data we don't need. As a result, we created "My GradeSource", and hope
-every user can easily check his/her own scores, current rank and current letter grade.
+The reason why we made this app is because it's really tedious to check our own grade on the website every time,
+and there is too much unnecessary data we don't need.
+
+As a result, we created "My GradeSource", and hope every user can easily check his/her own
+scores, current rank and current letter grade without any pain.
 
 # Issue
 
