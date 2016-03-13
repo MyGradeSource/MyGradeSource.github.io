@@ -5,7 +5,7 @@ permalink: /about/
 ---
 # Hello World!
 
-This application is made by
+"My GradeSource" is made by
 
 * Yu-Chia Liu, master student from chemical engineering in UCSD,
 * Ming-Wei Liu, master student from mechanical and aerospace engineering in UCSD.
