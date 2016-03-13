@@ -7,11 +7,11 @@ permalink: /about/
 
 "My GradeSource" is made by
 
-* Yu-Chia "Hank" Liu, master's student in chemical engineering, UCSD.
-* Ming-Wei "Leon" Liu, master's student in mechanical and aerospace engineering, UCSD.
+* Yu-Chia "Hank" Liu, master's student in Chemical Engineering, UCSD.
+* Ming-Wei "Leon" Liu, master's student in Mechanical and Aerospace Engineering, UCSD.
 
 "My GradeSource" is our final project for CSE11, which is instructed by Prof. Adam Jundt in 15-16 Winter quarter.
-This application is programmed by Java, including [JavaFX](https://docs.oracle.com/javafx/2/api/) and [jsoup](http://jsoup.org/) library mainly.
+This application is programmed by Java, which mainly includes [JavaFX](https://docs.oracle.com/javafx/2/api/) and [jsoup](http://jsoup.org/) library.
 
 We made this application because checking our own grades on the website was never an easy task.
 There is too much unnecessary data on it.
