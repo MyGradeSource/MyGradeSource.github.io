@@ -8,7 +8,7 @@
 # Site settings
 title: My GradeSource
 description: > # this means to ignore newlines until "baseurl:"
-  Frustrated that you have to open a web browser every time you want to check you course status?
+  Feeling frustrated that you have to open a web browser every time you want to check your course status?
   Here is your time-saver! Try our "My GradeSource" to check your grade easily!
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://mygradesource.github.io/" # the base hostname & protocol for your site

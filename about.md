@@ -7,14 +7,14 @@ permalink: /about/
 
 "My GradeSource" is made by
 
-* Yu-Chia "Hank" Liu, master student from chemical engineering in UCSD,
-* Ming-Wei "Leon" Liu, master student from mechanical and aerospace engineering in UCSD.
+* Yu-Chia "Hank" Liu, master's student in chemical engineering, UCSD.
+* Ming-Wei "Leon" Liu, master's student in mechanical and aerospace engineering, UCSD.
 
 "My GradeSource" is our final project for CSE11, which is instructed by Prof. Adam Jundt in 15-16 Winter quarter.
 This application is programmed by Java, including [JavaFX](https://docs.oracle.com/javafx/2/api/) and [jsoup](http://jsoup.org/) library mainly.
 
-The reason why we made this application is because it's really tedious to check our own grade on the website every time,
-and there is too much unnecessary data we don't need.
+We made this application because checking our own grades on the website was never an easy task.
+There is too much unnecessary data on it.
 
 As a result, we created “My GradeSource." We hope every user can easily check his/her own scores,
 current rank and current letter grade without the pain of going through all the data.
@@ -35,5 +35,5 @@ Click [here](https://github.com/mygradesource/mygradesource-app/blob/master/MyGr
 
 [Here](https://github.com/mygradesource/mygradesource-app) is the GitHub repository for our final project.
 
-We made this website with Jekyll, a Ruby gem that transforms your plain text into static websites and blogs. 
+We made this website with Jekyll, a Ruby gem that transforms your plain text into static websites and blogs.
 You can find more information at [jekyllrb.com](http://jekyllrb.com/)
