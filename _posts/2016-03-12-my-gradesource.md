@@ -12,10 +12,10 @@ table to find your status of CSE11 course.
 
 (Click [here](https://github.com/mygradesource/mygradesource-app/blob/master/MyGradeSource.jar?raw=true) to download.)
 
-(If you cannot run the app, you need to install Java before you run it.)
+(You need to have Java installed before running this application.)
 ([Link](http://www.oracle.com/technetwork/java/javase/downloads/index.html))
 
-After downloading "My GradeSource", just click it to open.
+After downloading "My GradeSource", click it to open.
 ![](/src/2.png)
 
 And enter your secret number in the textfield...
@@ -24,15 +24,15 @@ And enter your secret number in the textfield...
 There you go! The result just came out!
 ![](/src/4.png)
 
-If you want to see the whole table, you can click "Show All.." button that will use
-default web browser to open the source website.
+If you want to see the whole table, you can click the "Show All.." button which
+will open the source website in your default web browser.
 ![](/src/1.png)
 
-If you don't have secret number since you didn't take this course, don't worry!
-We've prepared a demo mode for you! Just type "demo" in the textfield.
+Don’t have a secret number because you didn't take this course? Don’t worry!
+We’ve prepared a demo mode for you! Just type “demo” in the textfield.
 ![](/src/5.png)
 
-The application will randomly pick up a secret number and show the result!
+The application will randomly pick a secret number and show the result!
 ![](/src/6.png)
 
-That's simple, right? Enjoy our "My GradeSource"!
+It's simple, right? Enjoy our "My GradeSource"!
