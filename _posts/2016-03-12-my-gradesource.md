@@ -4,11 +4,11 @@ title:  "Introduction: My GradeSource"
 date:   2016-03-12 21:09:43 -0800
 permalink: /
 ---
-Feel tired when you see this?
+Feel tired when you look at this?
 ![](/src/1.png)
 
-From now on, you don't have to check those bunch of unnecessary data again after
-downloading our application for searching your status of CSE11 course.
+if you download our application, you will no longer need to go through the whole
+table to find your status of CSE11 course.
 
 (Click [here](https://github.com/mygradesource/mygradesource-app/blob/master/MyGradeSource.jar?raw=true) to download.)
 
@@ -21,15 +21,15 @@ After downloading "My GradeSource", just click it to open.
 And enter your secret number in the textfield...
 ![](/src/3.png)
 
-Boom! Magic just happened!
+There you go! The result just came out!
 ![](/src/4.png)
 
-If you want to see whole table, you can click "Show All.." button, which will use
-you default web browser to open the source website.
+If you want to see the whole table, you can click "Show All.." button that will use
+default web browser to open the source website.
 ![](/src/1.png)
 
 If you don't have secret number since you didn't take this course, don't worry!
-We prepared a demo mode for you! Just type "demo" in the textfield.
+We've prepared a demo mode for you! Just type "demo" in the textfield.
 ![](/src/5.png)
 
 The application will randomly pick up a secret number and show the result!
