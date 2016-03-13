@@ -1,14 +1,13 @@
 <footer class="site-footer">
 
   <div class="wrapper">
-
-    <h2 class="footer-heading">{{ site.title }}</h2>
-
     <div class="footer-col-wrapper">
       <div class="footer-col footer-col-1">
         <ul class="contact-list">
-          <li>{{ site.title }}</li>
-          <li><a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
+          <li>Yu-Chia Liu:</li>
+          <li><a href="mailto:{{ yul560@eng.ucsd.edu }}">yul560@eng.ucsd.edu</a></li>
+          <li>Ming-Wei Liu:</li>
+          <li><a href="mailto:{{ mil228@eng.ucsd.edu }}">mil228@eng.ucsd.edu</a></li>
         </ul>
       </div>
 
@@ -19,14 +18,7 @@
             {% include icon-github.html username=site.github_username %}
           </li>
           {% endif %}
-
-          {% if site.twitter_username %}
-          <li>
-            {% include icon-twitter.html username=site.twitter_username %}
-          </li>
-          {% endif %}
-        </ul>
-      </div>
+        </div>
 
       <div class="footer-col footer-col-3">
         <p>{{ site.description }}</p>
