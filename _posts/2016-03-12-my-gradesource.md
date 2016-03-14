@@ -22,6 +22,7 @@ Enter your secret number in the textfield...
 ![](/src/3.png)
 
 And... Here is your result!
+
 ![](/src/4.png)
 
 If you want to see the whole table, you can click the "Show All.." button which
