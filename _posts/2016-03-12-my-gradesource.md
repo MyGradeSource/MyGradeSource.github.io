@@ -10,7 +10,7 @@ Feel tired when you look at this?
 if you download our application, you will no longer need to go through the whole
 table to find your status of CSE11 course.
 
-(Click [here](https://github.com/mygradesource/mygradesource-app/blob/master/MyGradeSource.jar?raw=true) to download.)
+(Click [here](https://github.com/MyGradeSource/mygradesource.github.io/blob/master/MyGradeSource.jar?raw=true) to download.)
 
 (You need to have Java installed before running this application.)
 ([Link](http://www.oracle.com/technetwork/java/javase/downloads/index.html))
