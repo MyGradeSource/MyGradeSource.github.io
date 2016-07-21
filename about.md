@@ -33,7 +33,5 @@ has met our primitive goal: creating a GUI to display students’ individual sta
 
 Click [here](https://github.com/mygradesource/mygradesource-app/blob/master/MyGradeSource.jar?raw=true) to download "My GradeSource".
 
-[Here](https://github.com/mygradesource/mygradesource-app) is the GitHub repository for our final project.
-
 We made this website with Jekyll, a Ruby gem that transforms your plain text into static websites and blogs.
 You can find more information at [jekyllrb.com](http://jekyllrb.com/)
